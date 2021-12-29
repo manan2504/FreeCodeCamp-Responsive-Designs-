@@ -1,7 +1,8 @@
 #Tribute-Page= APJ_Abdul_Kalam
-It provides the feature to Assign Issue With The Auto Generated Id By Using ChanceJS. Uses
-Local Storage.
+
 <a href="https://tribute-pagefcc.herokuapp.com/" target="_blank">**Live Demo 🚀**</a>
+
+Codepen:(https://codepen.io/manan2504/pen/yLzvJPJ)
 
 ## Tech Stack
 
