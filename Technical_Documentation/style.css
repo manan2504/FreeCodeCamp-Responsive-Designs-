@@ -3,6 +3,7 @@ div.main-body {
   grid-template-columns: minmax(300px, auto) 1fr;
   grid-gap: 20px;
   grid-template-areas: 'navbar mainContent';
+  background-color: aqua;
 }
 
 nav#navbar {
@@ -17,6 +18,7 @@ nav#navbar a {
   margin: 10px 0;
   text-decoration: none;
   color: black;
+  background-color: bisque;
 }
 
 main#main-doc {
